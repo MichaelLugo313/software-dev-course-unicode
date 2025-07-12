@@ -87,7 +87,7 @@ Assign the result to a variable named swappedString.
 // Task 1
 let inputString1 = "Code";
 let firstCodePoint = inputString1.charCodeAt(0); // Your code here
-let thirdCodePoint = inputString1.charCodeAt(1); // Your code here
+let thirdCodePoint = inputString1.charCodeAt(2); // Your code here
 
 // Task 2
 let wordFromCodePoints = String.fromCharCode(72) + String.fromCharCode(101) + String.fromCharCode(108) + String.fromCharCode(108); // Your code here
